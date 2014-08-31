@@ -1,0 +1,491 @@
+﻿{
+  "albums" : {
+    "href" : "https://api.spotify.com/v1/search?query=Loveless&offset=0&limit=20&type=album",
+    "items" : [ {
+      "album_type" : "album",
+      "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "RO", "SE", "SG", "SI", "SK", "SV", "TR", "TW", "UY" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/20YQiWvyD8Yi7Xge7ukVrm"
+      },
+      "href" : "https://api.spotify.com/v1/albums/20YQiWvyD8Yi7Xge7ukVrm",
+      "id" : "20YQiWvyD8Yi7Xge7ukVrm",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/cd38bf0fc3a2465d8fe3fbaf1e0cbe3e6c04d4c5",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ea708240bb0d63f19668674bddaf01be234eb477",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/173470b67deafdaca95d1e1b25ab42f9a7467ea5",
+        "width" : 64
+      } ],
+      "name" : "Loveless",
+      "type" : "album",
+      "uri" : "spotify:album:20YQiWvyD8Yi7Xge7ukVrm"
+    }, {
+      "album_type" : "album",
+      "available_markets" : [ "AR", "AT", "BE", "BR", "CH", "CL", "CO", "CY", "CZ", "DE", "DK", "EE", "ES", "FI", "FR", "GB", "GR", "HK", "HU", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MY", "NL", "NO", "NZ", "PH", "PL", "PT", "RO", "SE", "SG", "SI", "SK", "TR", "TW" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0ZDVGWLuHtsmW1CwzoBliU"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0ZDVGWLuHtsmW1CwzoBliU",
+      "id" : "0ZDVGWLuHtsmW1CwzoBliU",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/b5d41f782df44e061d3293169a464a4f0da7fe31",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/f95f707b36802cfe587b6cdeba8f3d0203f81086",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/2c944e66552cc189b5b1814890dc2c1bdbf7309f",
+        "width" : 64
+      } ],
+      "name" : "Det Vi Sku' Miste",
+      "type" : "album",
+      "uri" : "spotify:album:0ZDVGWLuHtsmW1CwzoBliU"
+    }, {
+      "album_type" : "album",
+      "available_markets" : [ "AR", "AT", "BE", "BR", "CH", "CL", "CO", "CY", "CZ", "DE", "DK", "EE", "ES", "FI", "FR", "GB", "GR", "HK", "HU", "IE", "IS", "IT", "LT", "LU", "LV", "MY", "NL", "NO", "PH", "PL", "PT", "RO", "SE", "SG", "SI", "SK", "TR", "TW" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3NLAOkUDXhgatXvXQIWZOW"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3NLAOkUDXhgatXvXQIWZOW",
+      "id" : "3NLAOkUDXhgatXvXQIWZOW",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/8106fb431012f45a597d38ff841472beb0e5584c",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ca4807d8de6d1a85aeee596661ef30ee7ff50917",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/6d3918b8af9af24c6a3d52597a1f51f2dc5cdbd5",
+        "width" : 64
+      } ],
+      "name" : "Shaka Loveless",
+      "type" : "album",
+      "uri" : "spotify:album:3NLAOkUDXhgatXvXQIWZOW"
+    }, {
+      "album_type" : "album",
+      "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "RO", "SE", "SG", "SI", "SK", "SV", "TR", "TW", "US", "UY" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5xr6wY9mJPzNHQZZsulAkB"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5xr6wY9mJPzNHQZZsulAkB",
+      "id" : "5xr6wY9mJPzNHQZZsulAkB",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/2a4623eacdcc790c73f83ce0c43a79321ebe949b",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/73525b05365aaaf0ff78f236a41f2de939480e19",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/c45a04b7ff01109b320241aa416fd040de77e1c1",
+        "width" : 64
+      } ],
+      "name" : "Loveless",
+      "type" : "album",
+      "uri" : "spotify:album:5xr6wY9mJPzNHQZZsulAkB"
+    }, {
+      "album_type" : "album",
+      "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "RO", "SE", "SG", "SI", "SK", "SV", "TR", "TW", "US", "UY" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3gl2RguatWgKSoCuN1tSw9"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3gl2RguatWgKSoCuN1tSw9",
+      "id" : "3gl2RguatWgKSoCuN1tSw9",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/fa1d3d0ed89d99ac5aa1c03313429bf5c1281243",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/7d71ce20085656261a3cf36d20be17fd7084af2b",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/b91ee0208b363ff127c0afe8d93f1b98793d0063",
+        "width" : 64
+      } ],
+      "name" : "When Fallen Angels Fly",
+      "type" : "album",
+      "uri" : "spotify:album:3gl2RguatWgKSoCuN1tSw9"
+    }, {
+      "album_type" : "single",
+      "available_markets" : [ "DK", "FI", "NO", "SE" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/425kb3mjCQK5IFuI4CHViL"
+      },
+      "href" : "https://api.spotify.com/v1/albums/425kb3mjCQK5IFuI4CHViL",
+      "id" : "425kb3mjCQK5IFuI4CHViL",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/5c8d60bea91e408c796d85f9bac3ffa9e2f3b17f",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/d4be83f8e8b684e2949406a457e7987e088201fc",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/c887a4ca1454ff63d968f0c9c53ec4d497fbeef7",
+        "width" : 64
+      } ],
+      "name" : "Tomgang",
+      "type" : "album",
+      "uri" : "spotify:album:425kb3mjCQK5IFuI4CHViL"
+    }, {
+      "album_type" : "single",
+      "available_markets" : [ "AR", "AT", "BE", "BR", "CH", "CL", "CO", "CY", "CZ", "DE", "DK", "EE", "ES", "FI", "FR", "GB", "GR", "HK", "HU", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MY", "NL", "NO", "NZ", "PH", "PL", "PT", "RO", "SE", "SG", "SI", "SK", "TR", "TW" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6mZ3MA80h2wt5U5cOiXMkF"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6mZ3MA80h2wt5U5cOiXMkF",
+      "id" : "6mZ3MA80h2wt5U5cOiXMkF",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/c6d27865f3e9219882ae8eda60075aff57937263",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/0cbe07d2a23721a06a7f3238864d5d3d72c71467",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/0240e95a2cb5722ace28381451f0172596d1de38",
+        "width" : 64
+      } ],
+      "name" : "2 Mod Verden",
+      "type" : "album",
+      "uri" : "spotify:album:6mZ3MA80h2wt5U5cOiXMkF"
+    }, {
+      "album_type" : "album",
+      "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "RO", "SE", "SG", "SI", "SK", "SV", "TR", "TW", "US", "UY" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6QbK9UPinpcmvzoBiJsqcy"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6QbK9UPinpcmvzoBiJsqcy",
+      "id" : "6QbK9UPinpcmvzoBiJsqcy",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/a5df56bb854f9a2e7f7f34a8dde2c4345823fb55",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/7952f0410404d4e98ef2f86ac5f97f8a99638e2e",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/97e7a52e62845768a991045d878bffd7371cde8d",
+        "width" : 64
+      } ],
+      "name" : "Mountain Soul II",
+      "type" : "album",
+      "uri" : "spotify:album:6QbK9UPinpcmvzoBiJsqcy"
+    }, {
+      "album_type" : "single",
+      "available_markets" : [ "AR", "AT", "BE", "BR", "CH", "CL", "CO", "CY", "CZ", "DE", "DK", "EE", "ES", "FI", "GR", "HK", "HU", "IE", "IS", "IT", "LT", "LU", "LV", "MY", "NL", "NO", "NZ", "PH", "PL", "PT", "RO", "SE", "SG", "SI", "SK", "TR", "TW" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0Ie50NF6aV2rSBN7a8YYC5"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0Ie50NF6aV2rSBN7a8YYC5",
+      "id" : "0Ie50NF6aV2rSBN7a8YYC5",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/d1a901db056721dc022e9399111c0d34136e35b2",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/bcb85cd92ab49cf4f3c0fc9e6982e4e6d9a07bdd",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/33c3f0f860805c7abafa6b468fe9c243a8b86899",
+        "width" : 64
+      } ],
+      "name" : "Ikke Mere Tid",
+      "type" : "album",
+      "uri" : "spotify:album:0Ie50NF6aV2rSBN7a8YYC5"
+    }, {
+      "album_type" : "single",
+      "available_markets" : [ "AR", "AT", "BE", "BR", "CL", "CO", "CY", "CZ", "DE", "DK", "EE", "ES", "FI", "FR", "GB", "GR", "HK", "HU", "IE", "IS", "IT", "LT", "LU", "LV", "MY", "NL", "NO", "NZ", "PH", "PL", "PT", "RO", "SE", "SG", "SI", "SK", "TR", "TW" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1MM9jilRtHlrY9wbKkdoo4"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1MM9jilRtHlrY9wbKkdoo4",
+      "id" : "1MM9jilRtHlrY9wbKkdoo4",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/4e1ad96bd2423e18dafe9bad896f4c91416334fe",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/c45ffa4d765d2fc3e8bb1787a5ddee8a60235b20",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/4a7cb0b9dd8a8fbf9d7ae3068633a1b0779374bd",
+        "width" : 64
+      } ],
+      "name" : "Dengang Du GrÃ¦d",
+      "type" : "album",
+      "uri" : "spotify:album:1MM9jilRtHlrY9wbKkdoo4"
+    }, {
+      "album_type" : "album",
+      "available_markets" : [ "AD", "AR", "AT", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "PA", "PE", "PH", "PL", "PT", "PY", "RO", "SE", "SG", "SI", "SK", "SV", "TR", "TW", "US", "UY" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6rsAtoDa4gKvAzUtJaaSGP"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6rsAtoDa4gKvAzUtJaaSGP",
+      "id" : "6rsAtoDa4gKvAzUtJaaSGP",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/8d96790a764800b805b2e5b8565e4c0fe13a9a6a",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/cfa01787cbda35e9ff951df9a41a5f5f85b463ff",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/701c715d26c367844b423fb065649b64901d3c06",
+        "width" : 64
+      } ],
+      "name" : "Loveless",
+      "type" : "album",
+      "uri" : "spotify:album:6rsAtoDa4gKvAzUtJaaSGP"
+    }, {
+      "album_type" : "album",
+      "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "RO", "SE", "SG", "SI", "SK", "SV", "TR", "TW", "US", "UY" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/69fMHNYXdjB0GXA0UL4sn9"
+      },
+      "href" : "https://api.spotify.com/v1/albums/69fMHNYXdjB0GXA0UL4sn9",
+      "id" : "69fMHNYXdjB0GXA0UL4sn9",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/112bee2d12a0d0003f575a9847c4166119a440fe",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/31778a86fbf36cbcb059bff3bf69f27a075e04a5",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/1c7b422c58588c62c2d094e5626efbebeb9bc445",
+        "width" : 64
+      } ],
+      "name" : "Sleepless Nights",
+      "type" : "album",
+      "uri" : "spotify:album:69fMHNYXdjB0GXA0UL4sn9"
+    }, {
+      "album_type" : "album",
+      "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "RO", "SE", "SG", "SI", "SK", "SV", "TR", "TW", "US", "UY" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/15UfMA8VC7IxY6z6CbRsMN"
+      },
+      "href" : "https://api.spotify.com/v1/albums/15UfMA8VC7IxY6z6CbRsMN",
+      "id" : "15UfMA8VC7IxY6z6CbRsMN",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/c65487f16594c0d07e394f4d12c2c98e46413e4d",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/328cc21f1d741892045a3ea8df45d3bff5414d8c",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/b583cb5b72413916e187f5ac342476e74fba14c9",
+        "width" : 64
+      } ],
+      "name" : "Somewhere Else",
+      "type" : "album",
+      "uri" : "spotify:album:15UfMA8VC7IxY6z6CbRsMN"
+    }, {
+      "album_type" : "single",
+      "available_markets" : [ "AR", "AT", "BE", "BR", "CH", "CL", "CO", "CY", "CZ", "DE", "DK", "EE", "ES", "FI", "FR", "GB", "GR", "HK", "HU", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MY", "NL", "NO", "NZ", "PH", "PL", "PT", "RO", "SE", "SG", "SI", "SK", "TR", "TW" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1RUk0oI4JTcUraSuv5wMlj"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1RUk0oI4JTcUraSuv5wMlj",
+      "id" : "1RUk0oI4JTcUraSuv5wMlj",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/52f7e2c5d9bcc7fb47b366a5b41432f32acd0480",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/1f9663cb1b12820496d0fffee36120488200041c",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/e7bfdc3a810210f8a675ae09bf0781ee1b5a3f26",
+        "width" : 64
+      } ],
+      "name" : "How To Love You",
+      "type" : "album",
+      "uri" : "spotify:album:1RUk0oI4JTcUraSuv5wMlj"
+    }, {
+      "album_type" : "album",
+      "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "RO", "SE", "SG", "SI", "SK", "SV", "TR", "TW", "US", "UY" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1Nkp0fFTeaxhPwCGKme1xt"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1Nkp0fFTeaxhPwCGKme1xt",
+      "id" : "1Nkp0fFTeaxhPwCGKme1xt",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/d5c78d389baec013542dc54683709c7707ef3207",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/7def962bf3642617fec108d06834bcef27f577f9",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/7716b8ab83f0bb53ce322e29612902c0e9daa708",
+        "width" : 64
+      } ],
+      "name" : "Loveless",
+      "type" : "album",
+      "uri" : "spotify:album:1Nkp0fFTeaxhPwCGKme1xt"
+    }, {
+      "album_type" : "album",
+      "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "RO", "SE", "SG", "SI", "SK", "SV", "TR", "TW", "US", "UY" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2UuV6Tf1evQbaot965xT44"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2UuV6Tf1evQbaot965xT44",
+      "id" : "2UuV6Tf1evQbaot965xT44",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/405aab943477a4d7183998406a8464e12f7640eb",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/132f665b56504140d49d7afcd7a91ef51ecc27f4",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/e50ae9d5319932083b87aab67e330dae6b996043",
+        "width" : 64
+      } ],
+      "name" : "Done With Loveless Days",
+      "type" : "album",
+      "uri" : "spotify:album:2UuV6Tf1evQbaot965xT44"
+    }, {
+      "album_type" : "album",
+      "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "RO", "SE", "SG", "SI", "SK", "SV", "TR", "UY" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6ESy6ZGn7Pvyij2DEljLJS"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6ESy6ZGn7Pvyij2DEljLJS",
+      "id" : "6ESy6ZGn7Pvyij2DEljLJS",
+      "images" : [ {
+        "height" : 637,
+        "url" : "https://i.scdn.co/image/ca5d89bd37d13a5e45fbc502c54c78353a6cbd83",
+        "width" : 640
+      }, {
+        "height" : 299,
+        "url" : "https://i.scdn.co/image/ebb73be3c1ddaf94e6a0a94603de8c17291a2ea9",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/b437752d98be70c48cfbadbcec6ccb2a26a9c7ad",
+        "width" : 64
+      } ],
+      "name" : "Dreamin' My Dreams",
+      "type" : "album",
+      "uri" : "spotify:album:6ESy6ZGn7Pvyij2DEljLJS"
+    }, {
+      "album_type" : "album",
+      "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "RO", "SE", "SG", "SI", "SK", "SV", "TR", "TW", "UY" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1yz9iRPFNeWlaJ8mmyqI5t"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1yz9iRPFNeWlaJ8mmyqI5t",
+      "id" : "1yz9iRPFNeWlaJ8mmyqI5t",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/6738a5a94ebca6d2937cef0da31dead5e256d2ba",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/78e11ed00434c2d2a3afce79406aeda69ad7edb8",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/567ddb6f8d746af581a5c33be60e82bab45913a9",
+        "width" : 64
+      } ],
+      "name" : "Mountain Soul",
+      "type" : "album",
+      "uri" : "spotify:album:1yz9iRPFNeWlaJ8mmyqI5t"
+    }, {
+      "album_type" : "album",
+      "available_markets" : [ "AD", "AR", "AU", "BE", "BG", "BO", "BR", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "IE", "IS", "IT", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "RO", "SE", "SG", "SI", "SK", "SV", "TR", "TW", "US", "UY" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4ZyxBpJuAeEcrW2waHYuiB"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4ZyxBpJuAeEcrW2waHYuiB",
+      "id" : "4ZyxBpJuAeEcrW2waHYuiB",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/aaa724890a270165fb179d2708c1ae82f2193647",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ad92ffef475b1b227a35115b3e88828e4374a66b",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/dc9bb20a345c1254d1db231746734c9691dff742",
+        "width" : 64
+      } ],
+      "name" : "Only What I Feel",
+      "type" : "album",
+      "uri" : "spotify:album:4ZyxBpJuAeEcrW2waHYuiB"
+    }, {
+      "album_type" : "album",
+      "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "RO", "SE", "SG", "SI", "SK", "SV", "TR", "TW", "US", "UY" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/7CcrHU1XDBwkymb36Lj68f"
+      },
+      "href" : "https://api.spotify.com/v1/albums/7CcrHU1XDBwkymb36Lj68f",
+      "id" : "7CcrHU1XDBwkymb36Lj68f",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/43b1aa8d6e2882d6df7eea5ee7652f2db05ace4f",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/29b4947de9295e6b3f59c51db06c3b4b5145b689",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/629b697a1be2445ce67fb57a7a26f35f437278b0",
+        "width" : 64
+      } ],
+      "name" : "Mountain Soul",
+      "type" : "album",
+      "uri" : "spotify:album:7CcrHU1XDBwkymb36Lj68f"
+    } ],
+    "limit" : 20,
+    "next" : "https://api.spotify.com/v1/search?query=Loveless&offset=20&limit=20&type=album",
+    "offset" : 0,
+    "previous" : null,
+    "total" : 345
+  }
+}
